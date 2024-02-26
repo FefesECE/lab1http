@@ -22,7 +22,7 @@ while 1:
         if cookies:
             print('Παρακατω φαινονται τα cookies: \n',cookies)
         else:
-           print('Δεν υπαρχουν cookies :(')
+           print('Δεν υπαρχουν cookies :( ')
         
 
 
